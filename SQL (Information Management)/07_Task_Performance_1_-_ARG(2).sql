@@ -13,7 +13,7 @@ Birtdate Date
 
 Insert Into CUSTOMERS (CustomerID, FirstName, LastName, Email, Gender, Birtdate) Values
 (311505, 'Khasmer', 'Lapitan', 'lapitan.311505@davao.sti.edu.ph', 'Male', 'March 27, 2000'),
-(518334, 'Khalil', 'Aragon', 'aragon.518334@umindanao.edu.ph', 'Male', 'September 17, 2001'),
+(518334, 'Naharis', 'Dario', 'darionaharis@protonmail.com', 'Male', 'September 17, 2001'),
 (834561, 'Lin', 'Zara', 'zaralin@hotmail.com', 'Female', 'November 02, 2003'),
 (112467, 'Eira', 'Duchler', 'eira_duchler@yahoo.com', 'Female', 'February 10, 1999'),
 (904218, 'Grant', 'Carlisle', 'iamgrant@yandexmail.com', 'Prefer not to say', 'December 19, 2025');
