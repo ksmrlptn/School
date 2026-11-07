@@ -14,7 +14,7 @@ Insert into USERS (UserID, UserName, DateCreated) Values
 (003, 'hpointing2', '2018-12-11'),
 (004, 'smannagh3', '2018-08-05'),
 (005, 'gstarsmore4', '2018-07-09'),
-(006, 'dzuann5', '2019-01-09');
+(006, 'yangshuan', '2019-01-09');
 
 Create Table PICTURES (
 PictureID Bigint Primary key NOT NULL,

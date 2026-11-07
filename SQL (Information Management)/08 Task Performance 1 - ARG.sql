@@ -4,12 +4,12 @@ Use TASKPERFORMANCE
 
 Create Table StudentGrade (
 CourseCode Varchar(50) Primary Key,
-CourseTitle Varchar(50),
+TitleCourse Varchar(50),
 Units Int,
 Grade Float
 );
 
-Insert into StudentGrade (CourseCode, CourseTitle, Units, Grade) Values
+Insert into StudentGrade (CourseCode, TitleCourse, Units, Grade) Values
 ('COSC1003', 'Data Structures and Algorithm', 3, 1.50),
 ('GEDC1006', 'Reading in Philippine History', 3, 2.25),
 ('PHED1003', 'Physical Education 3', 2, 1.25),
